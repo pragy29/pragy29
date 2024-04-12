@@ -1,6 +1,6 @@
 # Pragy Parashar
 
-![Profile Banner](https://via.placeholder.com/1000x300.png?text=Pragy+Parashar+-+Data+Scientist)
+![Profile Banner](https://github.com/pragy29/pragy29/blob/main/HeaderBanner.png)
 
 ### 👋 Introduction
 I'm a Data Science Master’s student with expertise in application development and data engineering. Currently exploring roles that allow me to leverage my knowledge in data structures, algorithms, and programming to drive data-driven solutions.
