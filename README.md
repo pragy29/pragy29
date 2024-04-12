@@ -13,10 +13,22 @@ I'm a Data Science Master’s student with expertise in application development 
 - **Fractal Analytics, Gurugram** - Engineer, Grade 9 (2021-2022)
   - Managed terabytes of data across Azure cloud platforms and Snowflake Data Warehouse.
   - Designed scalable data architectures and implemented ETL pipelines using Azure Data Factory.
+  - Designed validation architectures and automated testing in Snowflake, increasing data analytics reliability.
+  - Collaborated with stakeholders to define data requirements and optimize data structures for reporting efficiency.
 
 - **Infosys Limited, India** - Senior System Engineer (2020-2021)
   - Led a team of five in data engineering projects for a US-based Healthcare Provider.
   - Optimized SSIS packages and contributed to application maintenance and enhancement.
+  - Enhanced a critical web application for authorization and grievances, ensuring high functionality and performance.
+  - Orchestrated SharePoint to File Net content migration, ensuring seamless data transfer with zero downtime.
+  - Served as a key communication bridge between teams, vendors, and stakeholders, facilitating clear project updates.
+ 
+- **Infosys Limited, India** - System Engineer (2019-2020)
+  - Optimized a key healthcare web application, enhancing functionality and user reliability, which improved Claims and Authorizations processing.
+  - Led application upgrades that increased user experience by 32%, streamlining system performance.
+  - Authored admin guides that improved client developer training efficiency by 45%, expediting handovers.
+  - Developed PL/SQL procedures within ETL processes, boosting efficiency and cutting manual work by 25%. 
+    
 
 ### 🛠 Technical Skills
 - **Languages**:
