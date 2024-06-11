@@ -66,8 +66,14 @@ I'm a Data Science Master’s student with expertise in application development 
 - **Email**: [parasharprakhar@yahoo.com](mailto:parasharprakhar@yahoo.com)
 
 ### 🌐 Personal Projects
-- **Project Name**: Description of the project.
-  - Details about technologies used and challenges overcome.
+- **Project Name**: [GreenerPath](https://www.lets-graduate.live/)
+  - As a data scientist for the "GreenerPath" project, my primary responsibilities encompass data procurement, handling, and analysis to create a comprehensive and engaging digital hub for secondary school students in Australia.
+  - The project aims to provide age-appropriate, actionable information on sustainability and climate change, empowering students to understand their carbon footprint and make eco-friendly choices.
+  - Identify and source relevant datasets related to climate change, carbon emissions, and sustainable practices.
+  - Clean and preprocess raw data to ensure accuracy and reliability.
+  - Integrate various data sources into a cohesive database that supports the platform's interactive features.
+  - Develop algorithms to calculate individual carbon footprints based on students' daily activities.
+  - Analyze trends and patterns in the data to provide insightful visualizations and recommendations.
 
 Feel free to explore my repositories and reach out if you are interested in collaborating on data science projects or exchange ideas!
 
