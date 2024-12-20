@@ -3,7 +3,7 @@
 ![Profile Banner](https://github.com/pragy29/pragy29/blob/main/HeaderBanner.png)
 
 ### 👋 Introduction
-I'm a Data Science Master’s student with expertise in application development and data engineering. Currently exploring roles that allow me to leverage my knowledge in data structures, algorithms, and programming to drive data-driven solutions.
+Passionate Data Engineer with a Master’s in Data Science, combining expertise in data engineering and application development to deliver scalable, data-driven solutions. Proficient in designing ETL pipelines, building data models, and creating automated workflows using Python, Snowflake, and Azure. Experienced across utilities, healthcare, and consumer goods domains, I thrive on uncovering insights from complex datasets and implementing innovative analytics strategies.
 
 ### 🎓 Education
 - **Masters in Data Science**, Monash University, Melbourne (2022-2024)
